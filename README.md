@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Tohirbek, a 20 years old web developer from Uzbekistan.
+I'm Samariddin, a 20 years old web developer from Uzbekistan.
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tohir_PD)
